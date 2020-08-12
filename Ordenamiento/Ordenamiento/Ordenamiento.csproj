@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\JonathanSanchezOrdenamiento.Implementacion\JonathanSanchezOrdenamiento.Implementacion.csproj" />
+    <ProjectReference Include="..\Ordenamientos.Models\Ordenamientos.Modelo.csproj" />
+  </ItemGroup>
+
+</Project>

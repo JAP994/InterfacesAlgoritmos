@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>Ordenamientos.Modelo</AssemblyName>
+    <RootNamespace>Ordenamientos.Modelo</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ordenamiento.Entidad\Ordenamientos.Entidad.csproj" />
+  </ItemGroup>
+
+</Project>
